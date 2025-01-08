@@ -1,0 +1,16 @@
+<!-- <DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > -->
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+
+<suite name="Selenium Test Suite">
+    <!-- Suite to run in parallel across multiple tests or classes -->
+  <test name="Selenium Tests">
+    <!-- Parameters can be passed to the tests -->
+    <!-- <parameter name="browser" value="chrome" -->
+
+    <!-- Define the classes to be run -->
+    <classes>
+        <!-- Test classes to execute -->
+        <class name="PurchaseOrderTest"/>
+    </classes>
+  </test>
+</suite>
