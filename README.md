@@ -1,4 +1,4 @@
-# Testing-Platform
+# Automation-Testing-Platform
 selenium-java-automation/
 │
 
