@@ -1,17 +1,29 @@
 # Testing-Platform
 selenium-java-automation/
 │
+
 ├── src/
+
 │   └── main/
+
 │       └── java/
+
 │           └── com/
+
 │               └── automation/
+
 │                   └── tests/
+
 │                       ├── BaseTest.java
+
 │                       ├── LoginTest.java
+
 │                       └── SearchTest.java
+
 │
+
 ├── pom.xml
+
 └── README.md
 
 mvn test
