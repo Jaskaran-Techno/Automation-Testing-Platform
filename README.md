@@ -1,6 +1,8 @@
 # Automation-Testing-Platform
 An automation testing platform is a set of tools and frameworks designed to automate the execution of software tests. The primary goal of automation testing is to improve efficiency, accuracy, and coverage while reducing manual effort. These platforms enable continuous testing, faster feedback, and higher-quality software.
-Technologies udes - JAVA, MVN & Selenium.
+
+Technologies used - JAVA, MVN & Selenium.
+
 selenium-java-automation/
 │
 
