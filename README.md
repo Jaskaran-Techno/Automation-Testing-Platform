@@ -20,8 +20,6 @@ selenium-java-automation/
 
 │                       └── SearchTest.java
 
-│
-
 ├── pom.xml
 
 └── README.md
